@@ -22,7 +22,7 @@
     <item>
       <title>Docs: Installing the Operator</title>
       <link>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/installing-the-operator/</link>
-      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/installing-the-operator/</guid>
       <description>
@@ -1319,7 +1319,7 @@ kubectl get secret jenkins-operator-credentials-&amp;lt;cr_name&amp;gt; -o &lt;s
     <item>
       <title>Docs: Deploying Jenkins</title>
       <link>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/deploying-jenkins/</link>
-      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/deploying-jenkins/</guid>
       <description>
@@ -2756,7 +2756,7 @@ stringData:
     <item>
       <title>Docs: Customizing Jenkins</title>
       <link>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/customizing-jenkins/</link>
-      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/customizing-jenkins/</guid>
       <description>
@@ -3721,7 +3721,7 @@ spec:
     <item>
       <title>Docs: Configuring Seed Jobs and Pipelines</title>
       <link>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/configuring-seed-jobs-and-pipelines/</link>
-      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/configuring-seed-jobs-and-pipelines/</guid>
       <description>
@@ -4004,7 +4004,7 @@ stringData:
     <item>
       <title>Docs: Configuring backup and restore</title>
       <link>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/configuring-backup-and-restore/</link>
-      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/configuring-backup-and-restore/</guid>
       <description>
@@ -4096,7 +4096,7 @@ up. Therefore, the backup script makes a copy of jobs history only.&lt;/p&gt;
     <item>
       <title>Docs: Custom backup and restore providers</title>
       <link>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/custom-backup-and-restore/</link>
-      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/custom-backup-and-restore/</guid>
       <description>
@@ -4279,7 +4279,7 @@ the number of backups under control, e.g. Cloud Formation fragment:&lt;/p&gt;
     <item>
       <title>Docs: Notifications</title>
       <link>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/notifications/</link>
-      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/notifications/</guid>
       <description>
@@ -4381,7 +4381,7 @@ For example you will send notifications to Slack and Teams.&lt;/p&gt;
     <item>
       <title>Docs: Security</title>
       <link>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/security/</link>
-      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/security/</guid>
       <description>
@@ -4989,7 +4989,7 @@ its own namespace (&lt;code&gt;jenkins-operator&lt;/code&gt;), watch for CRs in 
     <item>
       <title>Docs: AKS</title>
       <link>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/aks/</link>
-      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/aks/</guid>
       <description>
@@ -5011,25 +5011,9 @@ restart of a Jenkins pod over and over again.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Docs: OpenShift</title>
-      <link>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/openshift/</link>
-      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/openshift/</guid>
-      <description>
-        
-        
-        
-
-&lt;h2 id=&#34;release-0-6-0-is-not-compatible-with-openshift-and-jenkinsimage-crd-was-removed-from-it&#34;&gt;Release 0.6.0 is not compatible with OpenShift and JenkinsImage crd was removed from it.&lt;/h2&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>Docs: Configure backup and restore</title>
       <link>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/v0.5.x/configure-backup-and-restore/</link>
-      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/v0.5.x/configure-backup-and-restore/</guid>
       <description>
@@ -5109,6 +5093,22 @@ restart of a Jenkins pod over and over again.&lt;/p&gt;
 &lt;/span&gt;&lt;span style=&#34;color:#f8f8f8;text-decoration:underline&#34;&gt;        &lt;/span&gt;command&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#f8f8f8;text-decoration:underline&#34;&gt;
 &lt;/span&gt;&lt;span style=&#34;color:#f8f8f8;text-decoration:underline&#34;&gt;        &lt;/span&gt;-&lt;span style=&#34;color:#f8f8f8;text-decoration:underline&#34;&gt; &lt;/span&gt;/home/user/bin/get-latest.sh&lt;span style=&#34;color:#f8f8f8;text-decoration:underline&#34;&gt; &lt;/span&gt;&lt;span style=&#34;color:#8f5902;font-style:italic&#34;&gt;# this command is invoked on &amp;#34;backup&amp;#34; container to get last backup number before pod deletion; not having it in the CR may cause loss of data&lt;/span&gt;&lt;span style=&#34;color:#f8f8f8;text-decoration:underline&#34;&gt;
 &lt;/span&gt;&lt;span style=&#34;color:#f8f8f8;text-decoration:underline&#34;&gt;    &lt;/span&gt;&lt;span style=&#34;color:#8f5902;font-style:italic&#34;&gt;#recoveryOnce: &amp;lt;backup_number&amp;gt; # if want to restore specific backup configure this field and then Jenkins will be restarted and desired backup will be restored&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: OpenShift</title>
+      <link>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/openshift/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/openshift/</guid>
+      <description>
+        
+        
+        
+
+&lt;h2 id=&#34;release-0-6-0-is-not-compatible-with-openshift-and-jenkinsimage-crd-was-removed-from-it&#34;&gt;Release 0.6.0 is not compatible with OpenShift and JenkinsImage crd was removed from it.&lt;/h2&gt;
+
       </description>
     </item>
     
@@ -6716,7 +6716,7 @@ and add explicit references to the existing &lt;code&gt;ConfigMap&lt;/code&gt; a
     <item>
       <title>Docs: Schema</title>
       <link>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/schema/</link>
-      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/schema/</guid>
       <description>

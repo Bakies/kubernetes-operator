@@ -4,7 +4,7 @@
     <link>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/</link>
     <description>Recent Hugo news from gohugo.io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 19 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jenkinsci.github.io/kubernetes-operator/img/hugo.png</url>
       <title>GoHugo.io</title>
@@ -22,7 +22,7 @@
     <item>
       <title>Docs: Installing the Operator</title>
       <link>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/installing-the-operator/</link>
-      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/installing-the-operator/</guid>
       <description>
@@ -908,7 +908,7 @@ below is the full list of those volumeMounts:&lt;/p&gt;
     <item>
       <title>Docs: Deploying Jenkins</title>
       <link>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/deploying-jenkins/</link>
-      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/deploying-jenkins/</guid>
       <description>
@@ -992,7 +992,7 @@ kubectl get secret jenkins-operator-credentials-&amp;lt;cr_name&amp;gt; -o &lt;s
     <item>
       <title>Docs: Customizing Jenkins</title>
       <link>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/customizing-jenkins/</link>
-      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/customizing-jenkins/</guid>
       <description>
@@ -1174,7 +1174,7 @@ The secrets are loaded to &lt;code&gt;secrets&lt;/code&gt; map.&lt;/p&gt;
     <item>
       <title>Docs: Configuring Seed Jobs and Pipelines</title>
       <link>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/configuring-seed-jobs-and-pipelines/</link>
-      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/configuring-seed-jobs-and-pipelines/</guid>
       <description>
@@ -1457,7 +1457,7 @@ stringData:
     <item>
       <title>Docs: Configuring backup and restore</title>
       <link>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/configuring-backup-and-restore/</link>
-      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/configuring-backup-and-restore/</guid>
       <description>
@@ -1549,7 +1549,7 @@ up. Therefore, the backup script makes a copy of jobs history only.&lt;/p&gt;
     <item>
       <title>Docs: Custom backup and restore providers</title>
       <link>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/custom-backup-and-restore/</link>
-      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/custom-backup-and-restore/</guid>
       <description>
@@ -1732,7 +1732,7 @@ the number of backups under control, e.g. Cloud Formation fragment:&lt;/p&gt;
     <item>
       <title>Docs: Notifications</title>
       <link>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/notifications/</link>
-      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/notifications/</guid>
       <description>
@@ -1834,7 +1834,7 @@ For example you will send notifications to Slack and Teams.&lt;/p&gt;
     <item>
       <title>Docs: Security</title>
       <link>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/security/</link>
-      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/security/</guid>
       <description>
@@ -2442,7 +2442,7 @@ its own namespace (&lt;code&gt;jenkins-operator&lt;/code&gt;), watch for CRs in 
     <item>
       <title>Docs: AKS</title>
       <link>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/aks/</link>
-      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/aks/</guid>
       <description>
@@ -2466,7 +2466,7 @@ restart of a Jenkins pod over and over again.&lt;/p&gt;
     <item>
       <title>Docs: OpenShift</title>
       <link>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/openshift/</link>
-      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/openshift/</guid>
       <description>
@@ -2482,7 +2482,7 @@ restart of a Jenkins pod over and over again.&lt;/p&gt;
     <item>
       <title>Docs: Schema</title>
       <link>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/schema/</link>
-      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/schema/</guid>
       <description>

@@ -2,7 +2,7 @@
 title: "v0.4.x"
 linkTitle: "v0.4.x"
 weight: 3
-date: 2021-08-19
+date: 2021-09-01
 description: >
   How to work with Jenkins Operator 0.4.x version. We recommend migrating to a newer version.
 ---

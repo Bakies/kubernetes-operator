@@ -2,7 +2,7 @@
 title: "Notifications"
 linkTitle: "Notifications"
 weight: 7
-date: 2021-08-19
+date: 2021-09-01
 description: >
     How to setup operator notifications.
 ---

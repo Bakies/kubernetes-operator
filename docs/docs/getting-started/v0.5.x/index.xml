@@ -4,7 +4,7 @@
     <link>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/v0.5.x/</link>
     <description>Recent Hugo news from gohugo.io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 19 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jenkinsci.github.io/kubernetes-operator/img/hugo.png</url>
       <title>GoHugo.io</title>
@@ -556,7 +556,7 @@ The secrets are loaded to &lt;code&gt;secrets&lt;/code&gt; map.&lt;/p&gt;
     <item>
       <title>Docs: Configure backup and restore</title>
       <link>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/v0.5.x/configure-backup-and-restore/</link>
-      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/v0.5.x/configure-backup-and-restore/</guid>
       <description>
