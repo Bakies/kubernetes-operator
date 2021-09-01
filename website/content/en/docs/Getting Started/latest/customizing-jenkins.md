@@ -2,7 +2,7 @@
 title: "Customizing Jenkins"
 linkTitle: "Customizing Jenkins"
 weight: 3
-date: 2021-08-20
+date: 2021-09-01
 description: >
   How to customize Jenkins
 ---

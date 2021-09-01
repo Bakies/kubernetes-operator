@@ -4,7 +4,7 @@
     <link>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/</link>
     <description>Recent Hugo news from gohugo.io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 19 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jenkinsci.github.io/kubernetes-operator/img/hugo.png</url>
       <title>GoHugo.io</title>
@@ -22,7 +22,7 @@
     <item>
       <title>Docs: Latest (v0.6.x)</title>
       <link>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/</link>
-      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/latest/</guid>
       <description>
@@ -51,7 +51,7 @@
     <item>
       <title>Docs: v0.5.x</title>
       <link>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/v0.5.x/</link>
-      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/v0.5.x/</guid>
       <description>
@@ -79,7 +79,7 @@
     <item>
       <title>Docs: v0.4.x</title>
       <link>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/v0.4.x/</link>
-      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/v0.4.x/</guid>
       <description>
@@ -107,7 +107,7 @@
     <item>
       <title>Docs: v0.3.x</title>
       <link>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/v0.3.x/</link>
-      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/v0.3.x/</guid>
       <description>
@@ -135,7 +135,7 @@
     <item>
       <title>Docs: v0.2.x</title>
       <link>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/v0.2.x/</link>
-      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/v0.2.x/</guid>
       <description>
@@ -163,7 +163,7 @@
     <item>
       <title>Docs: v0.1.x</title>
       <link>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/v0.1.x/</link>
-      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://jenkinsci.github.io/kubernetes-operator/docs/getting-started/v0.1.x/</guid>
       <description>

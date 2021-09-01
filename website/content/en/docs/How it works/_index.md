@@ -2,7 +2,7 @@
 title: "How it works"
 linkTitle: "How it works"
 weight: 1
-date: 2021-08-19
+date: 2021-09-01
 description: >
   How Jenkins Operator works
 ---

@@ -2,7 +2,7 @@
 title: "Security"
 linkTitle: "Security"
 weight: 8
-date: 2021-08-20
+date: 2021-09-01
 description: >
   Jenkins security and hardening out of the box
 ---
